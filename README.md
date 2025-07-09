@@ -30,7 +30,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX)
+![JavaFX]([https://img.shields.io/badge/JavaFX](https://img.shields.io/badge/CRUD%20EPS%20JAVAFX-grey?style=for-the-badge&logo=coffeescript))
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Tools, IDEs & Platforms
