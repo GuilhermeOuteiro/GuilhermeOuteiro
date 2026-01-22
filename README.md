@@ -1,8 +1,8 @@
 # Hello there, I'm Guilherme!👋
 
 ## 🚀 About Me
-- 🎓 Masters student in Informatics Engineering at University of Minho
-- 💼 Currently doing my dissertation and internship at **AmeXio**, focused on a distributed monitoring platform
+- 🎓 Masters degree in Informatics Engineering from University of Minho
+- 💼 Dissertation and internship completed at **AmeXio**, focused on a distributed monitoring platform
 - 🛠️ Passionate about software engineering, data platforms, coding and learning new technologies
 
 ## 🔧 Tech Stack
